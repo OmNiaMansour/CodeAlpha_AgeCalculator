@@ -1,2 +1,2 @@
 # CodeAlpha_AgeCalculator
-Age Calculator Project by HTML, CSS and JavaScript
+Simple Age Calculator Project by HTML, CSS and JavaScript
